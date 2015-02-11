@@ -118,12 +118,6 @@
 <!--Social Share Button Script-->
 <script src="js/jquery.sharrre.min.js" type="text/javascript"></script>
 
-<!-- Fancybox Script -->
-<script type="text/javascript" src="js/jquery.fancybox.pack.js?v=2.1.5"></script>
-<script type="text/javascript" src="js/jquery.fancybox-buttons.js?v=1.0.5"></script>
-<script type="text/javascript" src="js/jquery.fancybox-media.js?v=1.0.6"></script>
-<script type="text/javascript" src="js/jquery.fancybox-thumbs.js?v=1.0.7"></script>
-
 <!--Tooltip Script-->
 <script type="text/javascript" src="js/tooltip.js"></script>
 
