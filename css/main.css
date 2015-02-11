@@ -6327,8 +6327,8 @@ body.dark {
     height: 50px;
     cursor: pointer;
     color:#dedede;
-    border-bottom: solid 1px rgba(0, 0, 0, 0.1);
-    background: #ffffff;
+    border-bottom: solid 1px rgba(158, 159, 204, 1);
+    background: #2E3192;
 }
 .flexy-menu > li.showhide span.title{
     margin: 16px 0 0 25px;
