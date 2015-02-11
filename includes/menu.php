@@ -14,7 +14,7 @@
 
         <!--Navigation Menu Start-->
         <ul class="flexy-menu vertical"><li class="showhide" style="display: none;"><span class="title">MENU</span><span class="icon"><em></em><em></em><em></em><em></em></span></li>
-            <li class="active" style="display: block;"><a href="index.html">Home</a><div class="menu-space"></div>
+            <li class="active" style="display: block;"><a href="index.php">Home</a><div class="menu-space"></div>
 
                 <span class="indicator">+</span></li>
             <li style="display: block;"><a href="about-us.php">About Us</a><div class="menu-space"></div>
