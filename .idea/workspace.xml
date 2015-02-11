@@ -17,7 +17,7 @@
     <file path="/menu.php" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423698045306" ignored="false" />
     <file path="/index.php" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423673435338" ignored="false" />
     <file path="$PROJECT_DIR$/js/jquery.themepunch.plugins.min.js" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423697238087" ignored="false" />
-    <file path="$PROJECT_DIR$/js/custom.js" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423698189541" ignored="false" />
+    <file path="$PROJECT_DIR$/js/custom.js" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423698879290" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,15 +73,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default_page.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/default_page.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="portfolio.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,10 +102,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6335" column="19" selection-start="122438" selection-end="122438" vertical-scroll-proportion="0.37543055">
+            <state line="6335" column="19" selection-start="122438" selection-end="122438" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="134" column="0" selection-start="5456" selection-end="5456" vertical-scroll-proportion="0.85917157">
               <folding />
             </state>
           </provider>
@@ -144,7 +144,6 @@
         <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/includes/header.php" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/includes/footer.php" />
         <option value="$PROJECT_DIR$/includes/slider.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/default_page.php" />
@@ -155,6 +154,7 @@
         <option value="$PROJECT_DIR$/contact-us.php" />
         <option value="$PROJECT_DIR$/includes/menu.php" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/includes/footer.php" />
       </list>
     </option>
   </component>
@@ -397,13 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="1160" selection-start="6619" selection-end="6619" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/slider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="0" selection-start="19056" selection-end="19056" vertical-scroll-proportion="0.0">
@@ -478,7 +471,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6335" column="19" selection-start="122438" selection-end="122438" vertical-scroll-proportion="0.37543055">
+        <state line="6335" column="19" selection-start="122438" selection-end="122438" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="0" selection-start="5456" selection-end="5456" vertical-scroll-proportion="0.85917157">
           <folding />
         </state>
       </provider>
