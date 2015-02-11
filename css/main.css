@@ -6473,7 +6473,7 @@ body.dark {
         background-color: #ffffff;
     }
     .logo {
-        width: 160px;
+        width: 67px;
         height: 50px;
         position: absolute;
         top: 0;
@@ -6483,7 +6483,7 @@ body.dark {
     }
     .logo img {
         width: auto;
-        height: 30px;
+        height:44px;
     }
     .menu-space {
         display: none;
