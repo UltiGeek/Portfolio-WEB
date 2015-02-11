@@ -11,6 +11,8 @@ jQuery(document).ready(function() {
 		indicator: true
 	});
 	
+	$(".flexy-menu > li.showhide span.title").html("CUTE DESIGN");
+	
 	// STICKY MENU
 	var stickyNavTop = $('.header-section').offset().top;
   

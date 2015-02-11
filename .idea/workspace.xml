@@ -5,7 +5,7 @@
     <ignored path="Cute Design.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/style.css" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1422550402611" ignored="false" />
-    <file path="/main.css" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1422552524083" ignored="false" />
+    <file path="/main.css" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423698657999" ignored="false" />
     <file path="/index.html" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1422638643211" ignored="false" />
     <file path="/about-us-style2.html" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1422636343786" ignored="false" />
     <file path="/clients.html" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1422636391970" ignored="false" />
@@ -14,10 +14,10 @@
     <file path="/portfolio-basic-3-columns.html" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1422636485762" ignored="false" />
     <file path="/service-style2.html" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1422636524477" ignored="false" />
     <file path="/Dummy.txt" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423672632731" ignored="false" />
-    <file path="/menu.php" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423673969991" ignored="false" />
+    <file path="/menu.php" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423698045306" ignored="false" />
     <file path="/index.php" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423673435338" ignored="false" />
     <file path="$PROJECT_DIR$/js/jquery.themepunch.plugins.min.js" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423697238087" ignored="false" />
-    <file path="$PROJECT_DIR$/js/custom.js" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423697238087" ignored="false" />
+    <file path="$PROJECT_DIR$/js/custom.js" changelist="8a82d1f7-45f4-4430-bc65-b5a91be6f2bc" time="1423698189541" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,7 @@
       <file leaf-file-name="menu.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="400" selection-end="400" vertical-scroll-proportion="-10.461538">
+            <state line="15" column="40" selection-start="399" selection-end="399" vertical-scroll-proportion="-10.384615">
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#0;n#header#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -114,7 +114,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6329" column="51" selection-start="122308" selection-end="122308" vertical-scroll-proportion="0.33639494">
+            <state line="6335" column="19" selection-start="122438" selection-end="122438" vertical-scroll-proportion="0.37543055">
               <folding />
             </state>
           </provider>
@@ -469,7 +469,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="400" selection-end="400" vertical-scroll-proportion="-10.461538">
+        <state line="15" column="40" selection-start="399" selection-end="399" vertical-scroll-proportion="-10.384615">
           <folding>
             <element signature="n#style#0;n#li#0;n#ul#0;n#header#0;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -478,7 +478,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6329" column="51" selection-start="122308" selection-end="122308" vertical-scroll-proportion="0.33639494">
+        <state line="6335" column="19" selection-start="122438" selection-end="122438" vertical-scroll-proportion="0.37543055">
           <folding />
         </state>
       </provider>

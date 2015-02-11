@@ -6333,7 +6333,7 @@ body.dark {
 .flexy-menu > li.showhide span.title{
     margin: 16px 0 0 25px;
     float: left;
-    display: none;
+    display: block;
 }
 .flexy-menu > li.showhide span.icon{
     margin: 17px 20px;
@@ -8882,4 +8882,11 @@ html[xmlns] .slides {display: block;}
 
 .overcome-stripe{
     margin-top:0;
+}
+
+
+span.title{
+font-size: 25px;
+display: block;
+padding-Left: 49px;
 }
