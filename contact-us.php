@@ -11,7 +11,7 @@
                 <div class="page-title">
                 	<div class="page-title-detail">
                     	<h1>Contact Us</h1>
-                        <p class="sub-title">Sed diam nonumy eirmod tempor invidunt</p>
+                        <p class="sub-title">via 0714XXXYYY or fill up the form below</p>
                     </div>
                     <nav class="page-navigation">
                     	<ul>
@@ -23,7 +23,7 @@
                 <!--End-->
                 
                 <!--Body Content Start-->
-                <section class="stripe">
+                <section style="padding-top: 2px;" class="stripe">
 
                     
                     <!--Contact Area-->
