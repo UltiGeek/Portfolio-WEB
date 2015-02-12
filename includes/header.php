@@ -8,9 +8,6 @@
     <link href="css/main.css" rel="stylesheet" type="text/css">
     <link rel="Shortcut Icon" type="image/png" href="images/logo.png" />
 
-    <!-- Tooltip CSS -->
-    <link href="css/main.css" rel="stylesheet" type="text/css">
-
     <!--Google Fonts-->
     <link href="http://fonts.googleapis.com/css?family=Roboto:400,400italic,300,500,700|Roboto+Slab:400,300,700" rel="stylesheet" type="text/css">
 
