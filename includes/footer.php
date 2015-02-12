@@ -114,9 +114,6 @@
 <!-- Flexslider Script -->
 <script type="text/javascript" src="js/jquery.flexslider.js"></script>
 
-<!--Social Share Button Script-->
-<script src="js/jquery.sharrre.min.js" type="text/javascript"></script>
-
 <!--Tooltip Script-->
 <script type="text/javascript" src="js/tooltip.js"></script>
 
