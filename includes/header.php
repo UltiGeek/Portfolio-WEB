@@ -7,10 +7,6 @@
     <!--Main Element CSS-->
     <link href="css/main.css" rel="stylesheet" type="text/css">
 
-    <!-- Fancybox CSS -->
-    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css?v=2.1.5" media="screen">
-    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox-buttons.css?v=1.0.5" media="screen">
-    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox-thumbs.css?v=1.0.7" media="screen">
 
     <!-- Tooltip CSS -->
     <link href="css/main.css" rel="stylesheet" type="text/css">
@@ -22,7 +18,7 @@
     <meta HTTP-EQUIV="REFRESH" content="0; url=lte-ie8.html">
     <![endif]-->
 
-    <style type="text/css">.fancybox-margin{margin-right:17px;}</style><link rel="stylesheet" href="css/main.css" type="text/css"></head>
+</head>
 
 <body>
 
