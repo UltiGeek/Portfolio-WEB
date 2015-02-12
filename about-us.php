@@ -26,7 +26,7 @@
                     </div>
                     <nav class="page-navigation">
                     	<ul>
-                        	<li><a href="index.html">home</a></li>
+                        	<li><a href="index.php">home</a></li>
                             <li>about us</li>
                         </ul>
                     </nav>
