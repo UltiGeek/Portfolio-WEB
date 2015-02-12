@@ -6,7 +6,7 @@
 
     <!--Main Element CSS-->
     <link href="css/main.css" rel="stylesheet" type="text/css">
-
+    <link rel="Shortcut Icon" type="image/png" href="images/logo.png" />
 
     <!-- Tooltip CSS -->
     <link href="css/main.css" rel="stylesheet" type="text/css">
