@@ -93,7 +93,6 @@
 <div class="clearfix"></div>
 
 <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
-<script type="text/javascript" src="js/greensock.js"></script>
 
 <!--Flexy Menu Script-->
 <script type="text/javascript" src="js/flexy-menu.js"></script>
