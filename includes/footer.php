@@ -93,7 +93,6 @@
 <div class="clearfix"></div>
 
 <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
-<script type="text/javascript" src="js/greensock.js"></script>
 
 <!--Flexy Menu Script-->
 <script type="text/javascript" src="js/flexy-menu.js"></script>
@@ -115,15 +114,6 @@
 <!-- Flexslider Script -->
 <script type="text/javascript" src="js/jquery.flexslider.js"></script>
 
-<!--Social Share Button Script-->
-<script src="js/jquery.sharrre.min.js" type="text/javascript"></script>
-
-<!-- Fancybox Script -->
-<script type="text/javascript" src="js/jquery.fancybox.pack.js?v=2.1.5"></script>
-<script type="text/javascript" src="js/jquery.fancybox-buttons.js?v=1.0.5"></script>
-<script type="text/javascript" src="js/jquery.fancybox-media.js?v=1.0.6"></script>
-<script type="text/javascript" src="js/jquery.fancybox-thumbs.js?v=1.0.7"></script>
-
 <!--Tooltip Script-->
 <script type="text/javascript" src="js/tooltip.js"></script>
 
@@ -133,6 +123,4 @@
 <!--Custom-->
 <script type="text/javascript" src="js/custom.js"></script>
 
-
-
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
+</body></html>

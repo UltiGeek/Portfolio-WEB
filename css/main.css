@@ -116,7 +116,7 @@ button {
     width: auto;
     height: 40px;
     padding: 10px 25px;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
     border: none;
     border-radius: 5px;
     font-family: 'Roboto', sans-serif;
@@ -133,7 +133,7 @@ button {
 }
 
 button:hover {
-    background-color: #e38057;
+    background-color: #5355D1;
 }
 
 button.dark-button {
@@ -180,11 +180,11 @@ blockquote {
     width: 100%;
     height: 40px;
     margin-bottom: 20px;
-    background-color: #3aacb3;
+    background-color: #5759A7;
 }
 
 .wrapper.topwrap {
-    background-color: #3aacb3;
+    background-color: #5759A7;
     overflow: hidden;
 }
 
@@ -254,7 +254,7 @@ blockquote {
 }
 
 #sync1 .item .caption.color2 {
-    background-color: rgba(246,138,94,0.8);
+    background-color: rgba(87, 89, 167, 0.63);
 }
 
 .caption h1 {
@@ -413,7 +413,7 @@ blockquote {
 .home-aboutus-title {
     height: 40px;
     padding: 10px 25px;
-    background-color: #3aacb3;
+    background-color: #5759A7;
     font-size: 18px;
     font-weight: 400;
     color: #ffffff;
@@ -604,7 +604,7 @@ blockquote {
     bottom: 0;
     right: 0;
     padding: 15px 40px;
-    background-color: rgba(246,138,94,0.8);
+    background-color: rgba(87, 89, 167, 0.63);
 
     /* div padding fix */
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -749,7 +749,7 @@ blockquote {
     display: table;
     margin-top: 20px;
     padding: 40px;
-    background-color: #3aacb3;
+    background-color: #5759A7;
     border-radius: 10px;
 
     /* div padding fix */
@@ -764,7 +764,7 @@ blockquote {
     margin-right: 30px;
     font-size: 36px;
     font-weight: 300;
-    color: #4a4a4a;
+    color: #9799C9;
     line-height: 40px;
 }
 
@@ -971,7 +971,7 @@ blockquote {
 }
 
 .team-social li:hover {
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 
@@ -1388,7 +1388,7 @@ blockquote {
 }
 
 .portfolio-status ul li:hover {
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 .portfolio-status ul li img {
@@ -1427,7 +1427,7 @@ blockquote {
     height: 40px;
     float: left;
     padding: 10px 17px;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 
     /* div padding fix */
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -1456,7 +1456,7 @@ blockquote {
 }
 
 #shareme a:hover {
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 #shareme .twitter {
@@ -1550,7 +1550,7 @@ blockquote {
 }
 
 .blog-header h2 a:hover {
-    color: #f68a5e;
+    color: #9E9FCC;
 }
 
 .blog-list-detail p {
@@ -1692,7 +1692,7 @@ blockquote {
 .page-count ul li:hover,
 .page-count .page-active {
     color: #ffffff;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 .page-count ul li i {
@@ -1779,7 +1779,7 @@ blockquote {
 }
 
 .related-post li h4 a:hover {
-    color: #f68a5e;
+    color: #9E9FCC;
 }
 
 .related-post-thumb {
@@ -2074,7 +2074,7 @@ blockquote {
 
 .contact-social li:first-child {
     width: auto;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
     font-size: 14px;
     font-weight: 700;
     color: #ffffff;
@@ -2103,7 +2103,7 @@ blockquote {
 }
 
 .contact-social li:hover {
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 
@@ -2132,7 +2132,7 @@ blockquote {
 
 .sidebar-title {
     padding: 8px 30px;
-    background-color: #3aacb3;
+    background-color: #5759A7;
 
     -webkit-border-top-left-radius: 10px;
     -webkit-border-top-right-radius: 10px;
@@ -2191,7 +2191,7 @@ blockquote {
 }
 
 .sidebar-list ul li a:hover {
-    color: #f68a5e;
+    color: #9E9FCC;
     margin-left: 10px;
 }
 
@@ -2264,7 +2264,7 @@ blockquote {
 }
 
 .recent-detail h3 a:hover {
-    color: #f68a5e;
+    color: #9E9FCC;
 }
 
 .recent-detail p {
@@ -2308,7 +2308,7 @@ blockquote {
 
 .popular-tags li:hover {
     color: #ffffff;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 
@@ -2630,7 +2630,7 @@ body.dark {
 }
 
 .dark #shareme a:hover {
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 .dark #shareme a img {
@@ -2707,7 +2707,7 @@ body.dark {
 }
 
 .dark .team-social li:hover {
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 .dark .team-social li img {
@@ -2747,7 +2747,7 @@ body.dark {
 }
 
 .dark .blog-header h2 a:hover {
-    color: #f68a5e;
+    color: #9E9FCC;
 }
 
 .dark .blog-meta {
@@ -2791,7 +2791,7 @@ body.dark {
 .dark .page-count .page-active,
 .dark .page-count .page-active:hover {
     color: #ffffff;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 .dark .related-post li h4 a {
@@ -2871,7 +2871,7 @@ body.dark {
 
 .dark .contact-social li:hover,
 .dark .contact-social li:first-child {
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 .dark .contact-social li img {
@@ -2959,7 +2959,7 @@ body.dark {
 
 .dark .popular-tags li:hover {
     color: #ffffff;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 }
 
 
@@ -3031,7 +3031,7 @@ body.dark {
     color: #ffffff;
     text-align: center;
     float: right;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
     margin-top: 20px;
     padding: 0px 20px;
     border: none;
@@ -3051,7 +3051,7 @@ body.dark {
 }
 
 .subscribe-box .subscribe-button:hover {
-    background-color: #e38057;
+    background-color: #5355D1;
 }
 
 
@@ -3144,7 +3144,7 @@ body.dark {
     color: #ffffff;
     text-align: center;
     float: right;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
     margin-top: 5px;
     border-radius: 5px;
     cursor: pointer;
@@ -3157,7 +3157,7 @@ body.dark {
 }
 
 .comment-active .submit-button:hover {
-    background-color: #e38057;
+    background-color: #5355D1;
 }
 
 
@@ -3206,7 +3206,7 @@ body.dark {
 
 .dark .comment-active .submit-button {
     color: #ffffff;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
 
     -webkit-transition: background-color 0.2s ease-in-out;
     -moz-transition: background-color 0.2s ease-in-out;
@@ -3216,7 +3216,7 @@ body.dark {
 }
 
 .dark .comment-active .submit-button:hover {
-    background-color: #e38057;
+    background-color: #5355D1;
 }
 
 /*******************************************************************************
@@ -5702,6 +5702,8 @@ body.dark {
     }
 
 
+
+
     /* ===== Homepage Synced Slider ===== */
 
     #sync1 .item .caption {
@@ -6065,7 +6067,7 @@ body.dark {
 .logo {
     width: 100%;
     text-align: center;
-    background-color: #f68a5e;
+    background-color: #9E9FCC;
     padding: 50px 0px;
     display: table;
 }
@@ -6121,7 +6123,7 @@ body.dark {
 }
 .flexy-menu li:hover > a,
 .flexy-menu li.active a {
-    background: #f68a5e;
+    background: #9E9FCC;
     color: #fff;
 }
 .menu-space {
@@ -6325,13 +6327,13 @@ body.dark {
     height: 50px;
     cursor: pointer;
     color:#dedede;
-    border-bottom: solid 1px rgba(0, 0, 0, 0.1);
-    background: #ffffff;
+    border-bottom: solid 1px rgba(158, 159, 204, 1);
+    background: #2E3192;
 }
 .flexy-menu > li.showhide span.title{
     margin: 16px 0 0 25px;
     float: left;
-    display: none;
+    display: block;
 }
 .flexy-menu > li.showhide span.icon{
     margin: 17px 20px;
@@ -6447,7 +6449,7 @@ body.dark {
 }
 .dark .flexy-menu li:hover > a,
 .dark .flexy-menu li.active a {
-    background: #f68a5e;
+    background: #9E9FCC;
     color: #fff;
 }
 
@@ -6471,7 +6473,7 @@ body.dark {
         background-color: #ffffff;
     }
     .logo {
-        width: 160px;
+        width: 67px;
         height: 50px;
         position: absolute;
         top: 0;
@@ -6481,7 +6483,7 @@ body.dark {
     }
     .logo img {
         width: auto;
-        height: 30px;
+        height:44px;
     }
     .menu-space {
         display: none;
@@ -6567,7 +6569,7 @@ body.dark {
     .flexy-menu > li > ul > li > ul > li > ul > li > a{ padding-left: 80px !important; }
 
     .flexy-menu ul li a:hover {
-        background: #f68a5e !important;
+        background: #9E9FCC !important;
     }
     .flexy-menu ul li:first-child a:hover,
     .flexy-menu ul ul li:first-child a:hover {
@@ -6589,7 +6591,7 @@ body.dark {
     }
     .flexy-menu li.active li:hover > a,
     .flexy-menu li li:hover > a {
-        background: #f68a5e !important;
+        background: #9E9FCC !important;
         color: #ffffff;
     }
     .flexy-menu li li:first-child:hover > a {
@@ -8020,7 +8022,8 @@ website:   	http://www.themepunch.com
 /****************************
     -	BASIC SETTINGS -
 *****************************/
-.mega-hover							{	width:100%;height:100%;position:absolute; background: url(../assets/grain.png) repeat; background-color:rgba(246,138,94,0.8);
+.mega-hover							{	width:100%;height:100%;position:absolute; background: url(../assets/grain.png) repeat;
+    background-color:rgba(87, 89, 167, 0.63);
     border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px;
     -webkit-transition: all 0.2s ease-out;
     -moz-transition: all 0.2s ease-out;
@@ -8245,7 +8248,7 @@ website:   	http://www.themepunch.com
     transition: all 0.2s ease-in-out;
 }
 
-.filter:hover, .filter.selected		{	color:#fff; background-color:#f68a5e;}
+.filter:hover, .filter.selected		{	color:#fff; background-color:#9E9FCC;}
 
 .filter.last-child					{	margin-right:0px !important;}
 
@@ -8298,7 +8301,7 @@ li.filter							{
     color:#cccccc;
 }
 
-.dark .filter:hover, .filter.selected		{	color:#fff !important; background-color:#f68a5e !important;}
+.dark .filter:hover, .filter.selected		{	color:#fff !important; background-color:#9E9FCC !important;}
 
 
 
@@ -8870,4 +8873,20 @@ html[xmlns] .slides {display: block;}
 
 .dark .ls-v5 {
     background: #5a5a5a;
+}
+
+
+/*******
+****OVERIDE STARTS HERE
+*********/
+
+.overcome-stripe{
+    margin-top:0;
+}
+
+
+span.title{
+font-size: 25px;
+display: block;
+padding-Left: 49px;
 }
