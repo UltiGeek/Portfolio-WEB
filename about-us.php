@@ -10,7 +10,7 @@
                 <!--Feature Image-->
                 <div class="feature-image">
                 	<div class="feature-image-caption">
-                    	<p>Lorem ipsum dolor sit consetetur sadipscing</p>
+                    	<p>We are Africans With Fresh Creative Minds</p>
                     </div>
                 	<figure>
                     	<img src="images/upload/about-us-feature-image.jpg" alt="feature image">
@@ -22,7 +22,7 @@
                 <div class="page-title sub">
                 	<div class="page-title-detail">
                     	<h1>About us</h1>
-                        <p class="sub-title">Sed diam nonumy eirmod tempor invidunt</p>
+                        <p class="sub-title">Team of Digital experts here to change your Brand Image to a Loving one :) </p>
                     </div>
                     <nav class="page-navigation">
                     	<ul>
@@ -36,7 +36,8 @@
                 <!--Body Content Start-->
                 <section class="stripe aboutus-page-fullbox">
                         	<blockquote>
-                            	<span class="quote-icon">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</span>
+                            	<span class="quote-icon">You have every reason to trust us because we have all the necessary characteristics: Unlimited Potential , ImmenseTalents, Vast Experience , Healthy Account of Creative Ideas
+</span>
                             </blockquote>
                             <p class="text-content"><span class="dropcap">G</span>onsetetur sadipscing elitr sed diam nonumy eirmod tempor labore et dolore magna aliquyam erat sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit sea takimata sanctus est. At vero eos et accusam et justo duo dolores et east rebum. Stet kasd dolores gubergren takimata sanctus est lorem ipsum dolor sit amet. dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p><br>
                     
