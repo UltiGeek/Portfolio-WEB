@@ -217,9 +217,9 @@ blockquote {
     transition: all 0.2s ease-in-out;
 }
 
-.top-socialmedia li a:hover{
-    background-color: #9dd6d9;
-    opacity: 1;
+.top-socialmedia li a:hover {
+	background-color: #917C68;
+	opacity: 1;
 }
 
 
