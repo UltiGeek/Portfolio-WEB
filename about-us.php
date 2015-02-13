@@ -10,7 +10,7 @@
                 <!--Feature Image-->
                 <div class="feature-image">
                 	<div class="feature-image-caption">
-                    	<p>Lorem ipsum dolor sit consetetur sadipscing</p>
+                    	<p>We are Africans With Fresh Creative Minds</p>
                     </div>
                 	<figure>
                     	<img src="images/upload/about-us-feature-image.jpg" alt="feature image">
@@ -22,11 +22,11 @@
                 <div class="page-title sub">
                 	<div class="page-title-detail">
                     	<h1>About us</h1>
-                        <p class="sub-title">Sed diam nonumy eirmod tempor invidunt</p>
+                        <p class="sub-title">Team of Digital experts here to change your Brand Image to a Loving one </p>
                     </div>
                     <nav class="page-navigation">
                     	<ul>
-                        	<li><a href="index.html">home</a></li>
+                        	<li><a href="index.php">home</a></li>
                             <li>about us</li>
                         </ul>
                     </nav>
@@ -36,13 +36,14 @@
                 <!--Body Content Start-->
                 <section class="stripe aboutus-page-fullbox">
                         	<blockquote>
-                            	<span class="quote-icon">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</span>
+                            	<span class="quote-icon">You have every reason to trust us because we have all the necessary characteristics: Unlimited Potential , ImmenseTalents, Vast Experience , Healthy Account of Creative Ideas
+</span>
                             </blockquote>
-                            <p class="text-content"><span class="dropcap">G</span>onsetetur sadipscing elitr sed diam nonumy eirmod tempor labore et dolore magna aliquyam erat sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit sea takimata sanctus est. At vero eos et accusam et justo duo dolores et east rebum. Stet kasd dolores gubergren takimata sanctus est lorem ipsum dolor sit amet. dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p><br>
+                            <p class="text-content"><span class="dropcap">C</span>ute design is born from the ache and spirit of 4 experts.  we know you probably think we’re only another agency on an overcrowded market.That’s what makes us tougher, since we also know how to stand out from the mass and how to find the flawless creative and fitting solution for your ultimate projects </p><br>
                     
-                            <p>Lpsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. Stet clita gubergren no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, sea takimata sanctus est Lorem ipsum dolor sit amet. lorem ipsum dolor sit amet.</p><br>
+
                             
-                            <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet eirmod tempor invidunt.</p>
+                            <p>Why are we so dissimilar? Because Cute Design  is a sole blend of mixed experiences : we toiled in well known agencies, small agencies, been self-employed, had another activity, worked for small, middle, large accounts, some were battle-hardened arts champions, others fell in online shops when they were fresh, but all of us, and we really mean ALL, were driven by the very same passion, and this constant urge for excellence and creativeness.</p>
                             
                             <!--Our Team Title-->
                             <div class="homepanel-title-area">
@@ -57,12 +58,13 @@
                                 <div class="owl-wrapper-outer autoHeight" style="height: 392px;"><div class="owl-wrapper" style="width: 2800px; left: 0px; display: block;"><div class="owl-item" style="width: 280px;"><div class="item">
                                     <figure>
                                         <a href="#">
+                                            <!-- i dont this we need this------>
                                             <div class="thumbnail-hover"></div>
                                             <img src="images/upload/team1.jpg" alt="team">
                                         </a>
                                     </figure>
-                                    <h2>Jack C. Carlton</h2>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam.</p>
+                                    <h2>Ahmed Viriyala</h2>
+                                    <p>Managing Director , Team leader.</p>
                                     
                                     <!--Social Media-->
                                     <ul class="team-social">
