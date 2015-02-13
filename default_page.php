@@ -1,5 +1,8 @@
-<?php include('includes/header.php'); ?>
-<?php include('includes/menu.php'); ?>
+<?php
+	$active = "atujajua";
+	include('includes/header.php'); 
+	include('includes/menu.php');
+ ?>
 
         <div class="container">
         	
