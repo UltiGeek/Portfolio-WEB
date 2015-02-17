@@ -6067,10 +6067,10 @@ body.dark {
 .logo {
     width: 100%;
     text-align: center;
-    background-color: #9E9FCC;
-    padding: 50px 0px;
+    background-color: rgba(0, 172, 236, 0.16);
+    padding: 50px 0;
     display: table;
-    border-right: rgb(0, 172, 236) solid 4px;
+    border-right: rgb(158, 159, 204) solid 4px;
 }
 
 .logo-wrapper {
