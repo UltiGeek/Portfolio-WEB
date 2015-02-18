@@ -749,7 +749,7 @@ blockquote {
     display: table;
     margin-top: 20px;
     padding: 40px;
-    background-color: #5759A7;
+    background-color: #01AEF0;
     border-radius: 10px;
 
     /* div padding fix */
@@ -764,7 +764,7 @@ blockquote {
     margin-right: 30px;
     font-size: 36px;
     font-weight: 300;
-    color: #9799C9;
+    color: #000;
     line-height: 40px;
 }
 
@@ -3031,7 +3031,7 @@ body.dark {
     color: #ffffff;
     text-align: center;
     float: right;
-    background-color: #9E9FCC;
+    background-color: #01AEF0;
     margin-top: 20px;
     padding: 0px 20px;
     border: none;
