@@ -60,5 +60,9 @@
 
     <!--End-->
 
-    <div class="ls-loading-container" style="z-index: -1; display: none;"><div class="ls-loading-indicator"></div></div><div class="ls-bottom-nav-wrapper" style="visibility: visible;"><a class="ls-nav-start ls-nav-start-active" href="#"></a><span class="ls-bottom-slidebuttons"><a href="#" class=""></a><a href="#" class="ls-nav-active"></a><a href="#" class=""></a></span><a class="ls-nav-stop" href="#"></a></div><div class="ls-shadow"></div></div>
+    <div class="ls-loading-container" style="z-index: -1; display: none;"><div class="ls-loading-indicator"></div></div>
+    <div class="ls-bottom-nav-wrapper" style="visibility: visible;"><a class="ls-nav-start ls-nav-start-active" href="#"></a><span class="ls-bottom-slidebuttons"><a href="#" class=""></a><a href="#" class="ls-nav-active"></a><a href="#" class=""></a></span><a class="ls-nav-stop" href="#"></a></div>
+    <div class="ls-shadow"></div>
+
+</div>
 <!--Home Slider End-->

@@ -1,9 +1,10 @@
-<?php session_start(); ?>
+<?php session_start();
+include("/includes/globalfxn.php");
+?>
 <html class="" id="ls-global"><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>Cute Design</title>
-
+    <title>Cute Design | <?php get_title_for_this_page($active);?></title>
     <!--Main Element CSS-->
     <link href="css/main.css" rel="stylesheet" type="text/css">
     <link rel="Shortcut Icon" type="image/png" href="images/logo.png" />
